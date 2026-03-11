@@ -92,22 +92,6 @@ Building scalable systems, intelligent applications, and real-world solutions.
 
 ---
 
-# 🚀 Pinned Projects (Animated Showcase)
-
-<p align="center">
-
-<a href="https://github.com/Akthar-Farvees/caregrid-backend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akthar-Farvees&repo=caregrid-backend&theme=tokyonight&hide_border=true&show_owner=true"/>
-</a>
-
-<a href="https://github.com/Akthar-Farvees/caregrid-mobile">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akthar-Farvees&repo=caregrid-mobile&theme=tokyonight&hide_border=true&show_owner=true"/>
-</a>
-
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🏥 CareGrid
