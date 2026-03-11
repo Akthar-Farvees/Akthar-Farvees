@@ -11,21 +11,21 @@ Building scalable systems, intelligent applications, and real-world solutions.
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
 
 <!-- Animated badge carousel -->
 <a href="https://github.com/Akthar-Farvees?tab=achievements&achievement=yolo">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120" alt="YOLO Badge"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO Badge"/>
 </a>
 
 <a href="https://github.com/Akthar-Farvees?tab=achievements&achievement=quickdraw">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120" alt="Quickdraw Badge"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw Badge"/>
 </a>
 
 <a href="https://github.com/Akthar-Farvees?tab=achievements&achievement=pull-shark">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" alt="Pull Shark Badge"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" alt="Pull Shark Badge"/>
 </a>
 
 </p>
